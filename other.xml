@@ -1,0 +1,40 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/env_cloud/bin/python" value="false" />
+        <entry key="$USER_HOME$/env_cloud/dpcounts/bin/python3" value="false" />
+        <entry key="$USER_HOME$/microblog/app/bin/python" value="false" />
+        <entry key="$USER_HOME$/microblog/bin/python" value="false" />
+        <entry key="$USER_HOME$/myproject/bin/python" value="false" />
+        <entry key="$USER_HOME$/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/env_cloud/bin/python" value="false" />
+        <entry key="$USER_HOME$/env_cloud/dpcounts/bin/python3" value="false" />
+        <entry key="$USER_HOME$/microblog/app/bin/python" value="false" />
+        <entry key="$USER_HOME$/microblog/bin/python" value="false" />
+        <entry key="$USER_HOME$/myproject/bin/python" value="false" />
+        <entry key="$USER_HOME$/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/env_cloud/bin/python" value="false" />
+        <entry key="$USER_HOME$/env_cloud/dpcounts/bin/python3" value="false" />
+        <entry key="$USER_HOME$/microblog/app/bin/python" value="false" />
+        <entry key="$USER_HOME$/microblog/bin/python" value="false" />
+        <entry key="$USER_HOME$/myproject/bin/python" value="false" />
+        <entry key="$USER_HOME$/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
